@@ -1,5 +1,5 @@
 # Facebook-Graph-API
-using facebook graph api 2.7 to extract data from facebook
+using facebook graph api 2.7 to extract data from facebook , treat it (extract content , doing sentiment analysis)
 
 
 ### requirements
